@@ -1,3 +1,7 @@
+//Author: Lidija Sokolova
+//Date: 12/03/2025
+//First working version backup
+//Don't touch it
 #include <iostream>
 #include <cstdlib> 
 #include "myfunctions.h"
